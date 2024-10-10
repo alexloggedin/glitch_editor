@@ -1,0 +1,5 @@
+inputs/
+wrk/
+archive/
+.env/
+__pycache__/
